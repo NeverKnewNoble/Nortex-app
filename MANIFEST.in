@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include nortex_app *.css
+recursive-include nortex_app *.csv
+recursive-include nortex_app *.html
+recursive-include nortex_app *.ico
+recursive-include nortex_app *.js
+recursive-include nortex_app *.json
+recursive-include nortex_app *.md
+recursive-include nortex_app *.png
+recursive-include nortex_app *.py
+recursive-include nortex_app *.svg
+recursive-include nortex_app *.txt
+recursive-exclude nortex_app *.pyc
