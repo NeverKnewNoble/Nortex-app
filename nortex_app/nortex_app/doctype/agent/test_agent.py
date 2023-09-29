@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestPhoneList(FrappeTestCase):
+class TestAgent(FrappeTestCase):
 	pass
